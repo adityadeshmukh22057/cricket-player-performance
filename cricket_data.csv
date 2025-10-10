@@ -1,0 +1,51 @@
+Player_Name,Team,Matches,Innings,Runs,Highest_Score,Average,Strike_Rate,Centuries,Half_Centuries,Wickets,Bowling_Average,Economy,Best_Bowling,Role,Match_Result
+Virat Kohli,India,50,50,2850,183,60.64,92.5,12,14,0,0,0,0,Batsman,Won
+Rohit Sharma,India,48,48,2600,140,56.52,88.3,9,16,0,0,0,0,Batsman,Won
+Babar Azam,Pakistan,45,45,2400,125,58.54,87.2,10,12,0,0,0,0,Batsman,Won
+Steve Smith,Australia,52,52,2900,164,62.16,85.7,13,13,0,0,0,0,Batsman,Won
+Kane Williamson,New Zealand,50,50,2700,148,58.70,84.5,11,14,0,0,0,0,Batsman,Won
+Joe Root,England,55,55,2950,180,59.00,86.8,12,15,0,0,0,0,Batsman,Won
+David Warner,Australia,48,48,2550,178,55.43,94.2,10,13,0,0,0,0,Batsman,Won
+Quinton de Kock,South Africa,46,46,2300,135,52.27,92.8,8,14,0,0,0,0,Wicket-Keeper,Won
+KL Rahul,India,42,42,2100,132,52.50,90.5,7,13,0,0,0,0,Batsman,Won
+Ben Stokes,England,50,48,2200,120,48.89,88.5,5,12,85,28.5,5.2,5/42,All-Rounder,Won
+Jasprit Bumrah,India,45,12,180,35,18.00,82.3,0,0,125,22.4,4.8,6/27,Bowler,Won
+Pat Cummins,Australia,48,15,220,42,16.92,79.5,0,0,135,24.5,4.9,5/30,Bowler,Won
+Kagiso Rabada,South Africa,42,10,140,28,14.00,75.2,0,0,118,23.8,5.1,6/32,Bowler,Won
+Mitchell Starc,Australia,46,14,185,40,15.42,81.4,0,0,128,25.2,5.3,5/28,Bowler,Won
+Trent Boult,New Zealand,44,12,160,32,14.55,78.9,0,0,115,26.1,5.4,6/30,Bowler,Won
+Rashid Khan,Afghanistan,40,18,280,55,17.50,95.5,0,2,98,20.5,4.5,7/18,Bowler,Won
+Shakib Al Hasan,Bangladesh,48,46,2150,124,48.86,85.5,6,12,92,29.5,4.8,5/35,All-Rounder,Won
+Ravindra Jadeja,India,45,38,1850,100,42.05,82.8,2,10,88,30.2,4.6,5/40,All-Rounder,Won
+Glenn Maxwell,Australia,44,42,1950,145,46.43,125.5,5,8,65,35.8,5.8,4/38,All-Rounder,Won
+Chris Woakes,England,42,25,850,95,28.33,85.2,0,5,78,32.5,5.5,5/45,All-Rounder,Won
+Hardik Pandya,India,38,36,1680,110,44.21,118.5,3,9,55,33.2,6.2,4/35,All-Rounder,Won
+Ravichandran Ashwin,India,40,22,650,65,22.41,78.5,0,3,85,28.8,4.7,6/25,Bowler,Won
+Mohammed Shami,India,42,8,120,25,12.00,72.5,0,0,110,24.2,5.0,5/35,Bowler,Won
+Shaheen Afridi,Pakistan,35,7,95,22,11.88,68.5,0,0,95,22.8,4.9,6/35,Bowler,Won
+Jos Buttler,England,44,44,2350,150,56.10,140.5,8,11,0,0,0,0,Wicket-Keeper,Won
+Rishabh Pant,India,36,36,1850,125,52.86,125.8,5,9,0,0,0,0,Wicket-Keeper,Won
+AB de Villiers,South Africa,40,40,2200,162,61.11,145.2,9,10,0,0,0,0,Batsman,Won
+MS Dhoni,India,35,32,1450,112,48.33,92.5,2,8,0,0,0,0,Wicket-Keeper,Won
+Faf du Plessis,South Africa,42,42,2050,125,51.25,86.5,6,12,0,0,0,0,Batsman,Won
+Jason Roy,England,38,38,1950,138,53.42,118.5,5,12,0,0,0,0,Batsman,Won
+Virat Kohli,India,25,25,1200,85,50.00,88.5,3,7,0,0,0,0,Batsman,Lost
+Rohit Sharma,India,22,22,1050,92,48.86,82.5,2,6,0,0,0,0,Batsman,Lost
+Babar Azam,Pakistan,20,20,980,78,49.00,84.2,2,5,0,0,0,0,Batsman,Lost
+Steve Smith,Australia,23,23,1100,95,50.00,82.5,2,6,0,0,0,0,Batsman,Lost
+Kane Williamson,New Zealand,22,22,1050,88,48.86,80.5,2,6,0,0,0,0,Batsman,Lost
+Joe Root,England,25,25,1150,102,47.92,83.2,2,7,0,0,0,0,Batsman,Lost
+David Warner,Australia,22,22,1080,115,50.00,90.5,2,6,0,0,0,0,Batsman,Lost
+Ben Stokes,England,24,23,950,82,42.27,82.5,1,5,38,32.5,5.8,4/48,All-Rounder,Lost
+Jasprit Bumrah,India,20,5,65,18,13.00,75.2,0,0,52,26.5,5.2,5/35,Bowler,Lost
+Pat Cummins,Australia,22,6,75,22,14.42,72.5,0,0,58,28.2,5.5,4/42,Bowler,Lost
+Kagiso Rabada,South Africa,20,4,55,15,13.75,68.5,0,0,48,28.8,5.6,5/38,Bowler,Lost
+Mitchell Starc,Australia,21,5,68,20,13.60,70.5,0,0,55,29.5,5.8,4/45,Bowler,Lost
+Trent Boult,New Zealand,20,5,60,18,12.00,69.5,0,0,48,30.2,5.9,5/42,Bowler,Lost
+Rashid Khan,Afghanistan,18,8,115,28,15.33,88.5,0,0,42,24.5,5.0,5/25,Bowler,Lost
+Shakib Al Hasan,Bangladesh,22,21,880,75,42.86,78.5,1,5,38,34.2,5.2,4/40,All-Rounder,Lost
+Ravindra Jadeja,India,20,18,750,68,40.54,76.5,0,4,35,35.5,5.0,4/45,All-Rounder,Lost
+Glenn Maxwell,Australia,20,19,780,95,42.17,115.5,1,4,28,38.5,6.2,3/42,All-Rounder,Lost
+Hardik Pandya,India,18,17,650,75,38.24,108.5,0,4,22,38.8,6.8,3/38,All-Rounder,Lost
+Jos Buttler,England,20,20,980,92,50.00,128.5,2,5,0,0,0,0,Wicket-Keeper,Lost
+Rishabh Pant,India,16,16,720,82,46.15,118.5,1,4,0,0,0,0,Wicket-Keeper,Lost
