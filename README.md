@@ -54,9 +54,7 @@ This project analyzes cricket player and team performance data to identify key f
 ## 📸 Visualizations
 
 ### 🔹 Win vs Loss Analysis
-[Win vs Loss](<img width="1389" height="590" alt="WIN_LOSE" src="https://github.com/user-attachments/assets/25296102-03cc-4edd-8f9a-50a1be79ce21" />
-)
-
+[Win vs Loss](C:\Users\lenovo\Downloads\cricket-player-performance-main\cricket-player-performance-main\WIN_LOSE.png)
 ### 🔹 Team-wise Total Runs
 [Team Runs](<img width="1189" height="590" alt="TOP_TEAM_RUNS" src="https://github.com/user-attachments/assets/cae2d34e-67b3-4c1e-9fc1-d59be105e3e7" />
 )
