@@ -121,6 +121,16 @@ The project generates the following visualizations:
 6. **Role Distribution** - Pie chart of player roles
 7. **Correlation Heatmap** - Relationships between performance metrics
 
+### Sample Visualizations
+
+![Average Runs and Strike Rate: Won vs Lost](https://github.com/user-attachments/assets/24d60d88-fc4a-46e2-8b56-2206c585c386)
+
+![Top Run Scorers](https://github.com/user-attachments/assets/99e49771-0205-477b-b5a5-220f7e6643d2)
+
+![Top Bowling Performance](https://github.com/user-attachments/assets/55d35847-5aef-42fd-aa39-3ce76b07401d)
+
+![Team Performance Analysis](https://github.com/user-attachments/assets/a1ef4929-203f-4bf6-b337-d64186ec5706)
+
 All visualizations are saved in the `visualizations/` directory.
 
 ## 🔍 Key Insights
