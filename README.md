@@ -121,6 +121,10 @@ The project generates the following visualizations:
 6. **Role Distribution** - Pie chart of player roles
 7. **Correlation Heatmap** - Relationships between performance metrics
 
+### Top 10 Run Scorers
+
+![Top 10 Run Scorers](TOP_RUN_SCORE.png)
+
 All visualizations are saved in the `visualizations/` directory.
 
 ## 🔍 Key Insights
